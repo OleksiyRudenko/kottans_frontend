@@ -13,7 +13,8 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
 - [Tasks](#tasks)
   - [Task 0 - Getting familiar with Git and Github](#task-0---getting-familiar-with-git-and-github)
 - [Going to learn](#going-to-learn)
-  - [Git](#git)
+  - [Git related](#git-related)
+  - [Misc skills](#misc-skills)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,13 +44,14 @@ for future reference.
  * Pull requests to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) (#6)
      - `new----- :` pull request process
      - `surprise :` couldn't pick particular change for the merger, and
-       [skip unnecessary file](#git)
+       [skip unnecessary file](#git-related)
      - `will use :` pull request technique
 
 
 ## Going to learn
 
-### Git
+### Git related
+
  * [ ] Skipping files on pull request. For e.g. the target repo
        doesn't contain `.gitignore`, and I need it to make my life
        a bit easier: have it and avoid extra steps on ignoring its
@@ -57,5 +59,7 @@ for future reference.
        How to remove this file from pull request scope?
  * [ ] Post Pull Request activity: merge to forked master? just kill the
        branch?
-### Misc
+
+### Misc skills
+
  * [ ] [Improve typing skills](https://www.typingclub.com/)
