@@ -33,9 +33,9 @@ for future reference.
 ### Task 0 - Getting familiar with Git and Github
 
  * Git and GitHub basics (##1,2)
-     - `new----- :`
-     - `surprise :`
-     - `will use :`
+     - `new----- :` tuning up Git Environment
+     - `surprise :` git flexibility
+     - `will use :` many techniques
  * Create this repo and README.md with impressions (##3,4,5)
      - `new----- :`
      - `surprise :`
