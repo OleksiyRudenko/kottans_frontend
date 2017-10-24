@@ -1,4 +1,4 @@
-# Kottans Frontend Course
+# Kottans Frontend Course Reflections
 
 `[171023]` - initialized
 
