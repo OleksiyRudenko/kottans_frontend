@@ -37,12 +37,13 @@ for future reference.
      - `surprise :` git flexibility
      - `will use :` many techniques
  * Create this repo and README.md with impressions (##3,4,5)
-     - `new----- :`
-     - `surprise :`
-     - `will use :`
+     - `new----- :` peace of cake
+     - `surprise :` not much, really
+     - `will use :` again and again
  * Pull requests to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) (#6)
      - `new----- :` pull request process
-     - `surprise :` couldn't pick particular change for the merger
+     - `surprise :` couldn't pick particular change for the merger, and
+       [skip unnecessary file](#git)
      - `will use :` pull request technique
 
 
