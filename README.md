@@ -55,5 +55,7 @@ for future reference.
        a bit easier: have it and avoid extra steps on ignoring its
        existence at every git action.
        How to remove this file from pull request scope?
+ * [ ] Post Pull Request activity: merge to forked master? just kill the
+       branch?
 ### Misc
  * [ ] [Improve typing skills](https://www.typingclub.com/)
