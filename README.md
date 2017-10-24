@@ -32,6 +32,9 @@ for future reference.
 
 ### Task 0 - Getting familiar with Git and Github
 
+ * Git and GitHub basics (##1,2)
+ * Create this repo and README.md with impressions (##3,4,5)
+ * Pull requests to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) (#6)
 
 
 ## Going to learn
