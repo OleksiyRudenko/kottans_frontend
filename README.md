@@ -41,9 +41,9 @@ for future reference.
      - `surprise :`
      - `will use :`
  * Pull requests to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) (#6)
-     - `new----- :`
-     - `surprise :`
-     - `will use :`
+     - `new----- :` pull request process
+     - `surprise :` couldn't pick particular change for the merger
+     - `will use :` pull request technique
 
 
 ## Going to learn
