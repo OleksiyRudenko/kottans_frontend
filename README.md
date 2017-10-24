@@ -33,8 +33,17 @@ for future reference.
 ### Task 0 - Getting familiar with Git and Github
 
  * Git and GitHub basics (##1,2)
+     - `new----- :`
+     - `surprise :`
+     - `will use :`
  * Create this repo and README.md with impressions (##3,4,5)
+     - `new----- :`
+     - `surprise :`
+     - `will use :`
  * Pull requests to [Kottans/mock-repo](https://github.com/Kottans/mock-repo) (#6)
+     - `new----- :`
+     - `surprise :`
+     - `will use :`
 
 
 ## Going to learn
