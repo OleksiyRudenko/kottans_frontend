@@ -34,9 +34,9 @@ for future reference.
 ### Task 0 - Getting familiar with Git and Github
 
  * Git and GitHub basics (##1,2)
-     - `new----- :` tuning up Git Environment
+     - `new----- :` tuning up Git Environment, PRs
      - `surprise :` git flexibility
-     - `will use :` many techniques
+     - `will use :` many techniques, e.g. conflict resolution, github PR
  * Create this repo and README.md with impressions (##3,4,5)
      - `new----- :` peace of cake
      - `surprise :` not much, really
