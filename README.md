@@ -46,7 +46,32 @@ for future reference.
      - `surprise :` couldn't pick particular change for the merger, and
        [skip unnecessary file](#git-related)
      - `will use :` pull request technique
+     
+### Test 1 - Linux command line, server and http tools
+[The test itself](https://github.com/Kottans/frontend/blob/master/test01.md)
 
+Completed lessons evidences:
+ *
+ *
+ *
+
+Reflections:
+ * Linux Command Line Basics (#1)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
+ * Configuring Linux Web Servers (#2)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
+ * Networking for Web Developers (#3)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
+ * HTTP: The Protocol Every Web Developer Must Know (##4,5)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
 
 ## Going to learn
 
