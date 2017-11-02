@@ -51,7 +51,9 @@ for future reference.
 [The test itself](https://github.com/Kottans/frontend/blob/master/test01.md)
 
 Completed lessons evidences:
- *
+
+ ![LinuxCommandLineBasics completed](task_1/01-LinuxCommandLineBasics.png)
+ 
  *
  *
 
