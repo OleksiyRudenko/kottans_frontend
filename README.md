@@ -54,6 +54,7 @@ Completed lessons evidences:
 
  ![LinuxCommandLineBasics completed](task_1/01-LinuxCommandLineBasics.png)
  
+ ![ConfiguringLinuxWebServer completed](task_1/02-ConfiguringLinuxWebServer.png)
  *
  *
 
