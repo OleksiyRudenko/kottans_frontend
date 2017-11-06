@@ -12,6 +12,8 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
 - [Legend](#legend)
 - [Tasks](#tasks)
   - [Task 0 - Getting familiar with Git and Github](#task-0---getting-familiar-with-git-and-github)
+  - [Test 1 - Linux command line, server and http tools](#test-1---linux-command-line-server-and-http-tools)
+  - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Misc skills](#misc-skills)
