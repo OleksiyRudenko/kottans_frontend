@@ -83,6 +83,8 @@ Reflections:
 
 ### Test 2 - More of git and github
 
+[The test itself](https://github.com/Kottans/frontend/blob/master/test02.md)
+
 Completed lessons evidences:
 
  ![VersionControlWithGit completed](task_2/00-VersionControlWithGit.png)
