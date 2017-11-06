@@ -55,8 +55,8 @@ Completed lessons evidences:
  ![LinuxCommandLineBasics completed](task_1/01-LinuxCommandLineBasics.png)
  
  ![ConfiguringLinuxWebServer completed](task_1/02-ConfiguringLinuxWebServer.png)
- *
- *
+
+ ![NetworkingForWebDevelopers completed](task_1/03-NetworkingForWebDevelopers.png)
 
 Reflections:
  * Linux Command Line Basics (#1)
@@ -68,12 +68,13 @@ Reflections:
      - `surprise :` complicated dependecies
      - `will use :` web-server from VM
  * Networking for Web Developers (#3)
-     - `new----- :` 
-     - `surprise :` 
-     - `will use :` 
+     - `new----- :` `nc` (netcat) untility; `NAT` mechanics
+     - `surprise :` easyness of traffic interception for debug tasks;
+                    `traceroute` mechanics
+     - `will use :` TCP mechanics knowledge
  * HTTP: The Protocol Every Web Developer Must Know (##4,5)
-     - `new----- :` 
-     - `surprise :` 
+     - `new----- :`
+     - `surprise :`
      - `will use :` 
 
 ## Going to learn
