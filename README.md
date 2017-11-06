@@ -85,11 +85,13 @@ Reflections:
 
 ### Git related
 
- * [ ] Skipping files on pull request. For e.g. the target repo
+ * [x] Skipping files on pull request. For e.g. the target repo
        doesn't contain `.gitignore`, and I need it to make my life
        a bit easier: have it and avoid extra steps on ignoring its
        existence at every git action.
-       How to remove this file from pull request scope?
+       How to remove this file from the pull request scope?
+       -- Populate your `~/.gitignore`
+       and do `git config --global core.excludesfile ~/.gitignore`
        
  * [x] Post Pull Request activity:
   
