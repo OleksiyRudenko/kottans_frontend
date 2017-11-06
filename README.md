@@ -73,9 +73,13 @@ Reflections:
                     `traceroute` mechanics
      - `will use :` TCP mechanics knowledge
  * HTTP: The Protocol Every Web Developer Must Know (##4,5)
-     - `new----- :`
-     - `surprise :`
-     - `will use :` 
+     - `new----- :` TRACE, OPTIONS verbs;
+                    how web query & response get transformed into
+                    request/response messages;
+                    TLS is SSL+; Cache-Control;
+     - `surprise :` multiple HTTP auth methods;
+                    `407 Unauthorized` is not a dead-end
+     - `will use :` RFC-2616
 
 ## Going to learn
 
