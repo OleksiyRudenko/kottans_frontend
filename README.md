@@ -85,11 +85,13 @@ Reflections:
 
 Completed lessons evidences:
 
+ ![VersionControlWithGit completed](task_2/00-VersionControlWithGit.png)
+
 Reflections:
  * Version Control with Git (#0)
-     - `new----- :` 
-     - `surprise :` 
-     - `will use :` 
+     - `new----- :` `git reset --mixed|soft`
+     - `surprise :` quite transparent difference between resetting modes
+     - `will use :` `git reset`
  * GitHub & Collaboration (#2)
      - `new----- :` 
      - `surprise :` 
