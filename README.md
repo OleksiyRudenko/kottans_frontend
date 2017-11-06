@@ -60,13 +60,13 @@ Completed lessons evidences:
 
 Reflections:
  * Linux Command Line Basics (#1)
-     - `new----- :` 
-     - `surprise :` 
-     - `will use :` 
+     - `new----- :` Vagrant
+     - `surprise :` control of every aspect of OS
+     - `will use :` Vagrant
  * Configuring Linux Web Servers (#2)
-     - `new----- :` 
-     - `surprise :` 
-     - `will use :` 
+     - `new----- :` serving HTTP from VM
+     - `surprise :` complicated dependecies
+     - `will use :` web-server from VM
  * Networking for Web Developers (#3)
      - `new----- :` 
      - `surprise :` 
