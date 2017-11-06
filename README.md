@@ -81,6 +81,21 @@ Reflections:
                     `407 Unauthorized` is not a dead-end
      - `will use :` RFC-2616
 
+### Test 2 - More of git and github
+
+Completed lessons evidences:
+
+Reflections:
+ * Version Control with Git (#0)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
+ * GitHub & Collaboration (#2)
+     - `new----- :` 
+     - `surprise :` 
+     - `will use :` 
+
+
 ## Going to learn
 
 ### Git related
