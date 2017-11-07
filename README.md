@@ -10,11 +10,11 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
 ## Table of Contents
 
 - [Legend](#legend)
+- [Courses Pathway](#courses-pathway)
 - [Tasks](#tasks)
   - [Task 0 - Getting familiar with Git and Github](#task-0---getting-familiar-with-git-and-github)
   - [Test 1 - Linux command line, server and http tools](#test-1---linux-command-line-server-and-http-tools)
   - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
-- [Courses Pathway](#courses-pathway)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Misc skills](#misc-skills)
@@ -31,6 +31,23 @@ Each article studied is commented with three reflection items:
 
 `[171024]` - occasionally date in format `[YYMMDD]` can be specified
 for future reference.
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+## Courses Pathway
+
+ - [x] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+ - [x] [try.github.io](https://try.github.io/levels/1/challenges/1)
+ - [x] fork/PR [Kottans/mock-repo@github](https://github.com/Kottans/mock-repo)
+ - [x] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+ - [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+ - [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+ - [x] [Version Control with Git](https://classroom.udacity.com/courses/ud123/)
+ - [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+ - [ ] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+ - [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+ - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+ - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
@@ -107,23 +124,6 @@ Reflections:
      - `new----- :` 
      - `surprise :` 
      - `will use :` 
-
-[TOC :arrow_double_up: ](#table-of-contents)
-
-## Courses Pathway
-
- - [x] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
- - [x] [try.github.io](https://try.github.io/levels/1/challenges/1)
- - [x] fork/PR [Kottans/mock-repo@github](https://github.com/Kottans/mock-repo)
- - [x] [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
- - [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
- - [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
- - [x] [Version Control with Git](https://classroom.udacity.com/courses/ud123/)
- - [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
- - [ ] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
- - [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
- - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
- - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
