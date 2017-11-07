@@ -11,7 +11,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
 
 - [Legend](#legend)
 - [Courses Pathway](#courses-pathway)
-- [Tasks](#tasks)
+- [Kottans Course Tasks](#kottans-course-tasks)
   - [Task 0 - Getting familiar with Git and Github](#task-0---getting-familiar-with-git-and-github)
   - [Test 1 - Linux command line, server and http tools](#test-1---linux-command-line-server-and-http-tools)
   - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
@@ -51,7 +51,7 @@ for future reference.
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
-## Tasks
+## Kottans Course Tasks
 
 ### Task 0 - Getting familiar with Git and Github
 
