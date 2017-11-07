@@ -7,7 +7,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+## Table of Contents
 
 - [Legend](#legend)
 - [Tasks](#tasks)
@@ -32,6 +32,8 @@ Each article studied is commented with three reflection items:
 `[171024]` - occasionally date in format `[YYMMDD]` can be specified
 for future reference.
 
+[TOC :arrow_double_up: ](#table-of-contents)
+
 ## Tasks
 
 ### Task 0 - Getting familiar with Git and Github
@@ -49,7 +51,9 @@ for future reference.
      - `surprise :` couldn't pick particular change for the merger, and
        [skip unnecessary file](#git-related)
      - `will use :` pull request technique
-     
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
 ### Test 1 - Linux command line, server and http tools
 [The test itself](https://github.com/Kottans/frontend/blob/master/test01.md)
 
@@ -84,6 +88,8 @@ Reflections:
                     `407 Unauthorized` is not a dead-end
      - `will use :` RFC-2616
 
+[TOC :arrow_double_up: ](#table-of-contents)
+
 ### Test 2 - More of git and github
 
 [The test itself](https://github.com/Kottans/frontend/blob/master/test02.md)
@@ -102,6 +108,8 @@ Reflections:
      - `surprise :` 
      - `will use :` 
 
+[TOC :arrow_double_up: ](#table-of-contents)
+
 ## Courses Pathway
 
  * [x] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
@@ -116,6 +124,8 @@ Reflections:
  * [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  * [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
  * [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
+
+[TOC :arrow_double_up: ](#table-of-contents)
 
 ## Going to learn
 
@@ -137,3 +147,5 @@ Reflections:
 ### Misc skills
 
  * [ ] [Improve typing skills](https://www.typingclub.com/)
+
+[TOC :arrow_double_up: ](#table-of-contents)
