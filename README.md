@@ -114,6 +114,8 @@ Reflections:
 Completed lessons evidences:
 
  ![VersionControlWithGit completed](task_2/00-VersionControlWithGit.png)
+ 
+ ![GitHubAndCollaboration completed](task_2/01-GitHubAndCollaboration.png)
 
 Reflections:
  * Version Control with Git (#0)
@@ -121,9 +123,9 @@ Reflections:
      - `surprise :` quite transparent difference between resetting modes
      - `will use :` `git reset`
  * GitHub & Collaboration (#2)
-     - `new----- :` 
-     - `surprise :` 
-     - `will use :` 
+     - `new----- :` squashing commits; backup branch before rebasing
+     - `surprise :` rebasing is not so scary
+     - `will use :` squashing/rebasing
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
