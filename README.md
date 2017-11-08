@@ -43,7 +43,7 @@ for future reference.
  - [x] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
  - [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
  - [x] [Version Control with Git](https://classroom.udacity.com/courses/ud123/)
- - [ ] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
+ - [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
  - [ ] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
  - [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
