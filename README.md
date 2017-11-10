@@ -164,5 +164,7 @@ Reflections:
 ### Misc skills
 
  * [ ] [Improve typing skills](https://www.typingclub.com/)
+ * [ ] [Git It!](https://github.com/jlord/git-it-electron)
+ * [ ] [CSS in-depth](https://trello.com/c/xvMOErwb)
 
 [TOC :arrow_double_up: ](#table-of-contents)
