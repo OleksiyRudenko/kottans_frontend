@@ -15,6 +15,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Task 0 - Getting familiar with Git and Github](#task-0---getting-familiar-with-git-and-github)
   - [Test 1 - Linux command line, server and http tools](#test-1---linux-command-line-server-and-http-tools)
   - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
+  - [Test 3 - Frontend basics](#test-3---frontend-basics)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Misc skills](#misc-skills)
@@ -44,7 +45,7 @@ for future reference.
  - [x] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
  - [x] [Version Control with Git](https://classroom.udacity.com/courses/ud123/)
  - [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
- - [ ] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+ - [x] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
  - [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
  - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
@@ -126,6 +127,22 @@ Reflections:
      - `new----- :` squashing commits; backup branch before rebasing
      - `surprise :` rebasing is not so scary
      - `will use :` squashing/rebasing
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 3 - Frontend basics
+
+[The test itself](https://github.com/Kottans/frontend/blob/master/test03.md)
+
+Completed lessons evidences:
+
+ ![HTML and CSS Syntax completed](task_3/00-html-css.png)
+
+Reflections:
+ * HTML and CSS Syntax
+     - `new----- :` pseudo-classes, pseudo-elements
+     - `surprise :` CSS became quite powerful
+     - `will use :` extended selectors
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
