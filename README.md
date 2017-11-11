@@ -16,8 +16,10 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Test 1 - Linux command line, server and http tools](#test-1---linux-command-line-server-and-http-tools)
   - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
   - [Test 3 - Frontend basics](#test-3---frontend-basics)
+  - [Test 4 - Responsive Web Design Fundamentals](#test-4---responsive-web-design-fundamentals)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
+  - [Responsive design](#responsive-design)
   - [Misc skills](#misc-skills)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
