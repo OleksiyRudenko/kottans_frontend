@@ -151,7 +151,9 @@ Reflections:
 [The test itself](https://github.com/Kottans/frontend/blob/master/test04.md)
 
 <details><summary><b>Completed lessons evidences</b> (click to show)</summary>
+
  ![Responsive Web Design Fundamentals](task_4/00-responsive-design.png)
+
 </details>
 
 Reflections:
