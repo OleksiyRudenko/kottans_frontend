@@ -46,7 +46,7 @@ for future reference.
  - [x] [Version Control with Git](https://classroom.udacity.com/courses/ud123/)
  - [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
  - [x] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
- - [ ] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+ - [x] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
  - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
@@ -145,6 +145,24 @@ Reflections:
      - `will use :` extended selectors
 
 [TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 4 - Responsive Web Design Fundamentals
+
+[The test itself](https://github.com/Kottans/frontend/blob/master/test04.md)
+
+<details><summary><b>Completed lessons evidences</b> (click to show)</summary>
+ ![Responsive Web Design Fundamentals](task_4/00-responsive-design.png)
+</details>
+
+Reflections:
+ * Responsive Web Design Fundamentals
+     - `new----- :` CSS flex support
+     - `surprise :` what I thought was a sophisticated CSS tricks is
+                    actually supported out-of-box
+     - `will use :` responsive design
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
 
 ## Going to learn
 
