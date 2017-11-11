@@ -161,10 +161,15 @@ Reflections:
    - [x] merge to forked master? - if PR's successful, merge master from upstream
    - [x] just kill the branch? - kill it upon PR complete
 
+### Responsive design
+
+ * [ ] [CSS in-depth](https://trello.com/c/xvMOErwb)
+ * [ ] [Responsive Images Course](https://www.udacity.com/course/responsive-images--ud882)
+ * [ ] [Finish extras](https://github.com/kottans/frontend/blob/master/test04.md)
+
 ### Misc skills
 
  * [ ] [Improve typing skills](https://www.typingclub.com/)
  * [ ] [Git It!](https://github.com/jlord/git-it-electron)
- * [ ] [CSS in-depth](https://trello.com/c/xvMOErwb)
 
 [TOC :arrow_double_up: ](#table-of-contents)
