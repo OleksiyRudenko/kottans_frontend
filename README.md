@@ -49,7 +49,7 @@ for future reference.
  - [x] [GitHub & Collaboration](https://classroom.udacity.com/courses/ud456)
  - [x] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
  - [x] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
- - [ ] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+ - [x] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
  - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
 
 [TOC :arrow_double_up: ](#table-of-contents)
@@ -165,6 +165,26 @@ Reflections:
      - `surprise :` what I thought was a sophisticated CSS tricks is
                     actually supported out-of-box
      - `will use :` responsive design
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 5 - Intro to JS
+
+[The test itself](https://github.com/Kottans/frontend/blob/master/test05.md)
+
+<details><summary><b>Completed lessons evidences</b> (click to show)</summary>
+
+ ![Intro to JavaScript](task_5/00-intro-to-js.png)
+
+</details>
+
+
+Reflections:
+ * Intro to JS
+     - `new----- :` logical operators in imperative statements may return
+                    sub-statement value 
+     - `surprise :` the above
+     - `will use :` the above
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
