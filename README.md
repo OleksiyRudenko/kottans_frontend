@@ -214,5 +214,6 @@ Reflections:
 
  * [ ] [Improve typing skills](https://www.typingclub.com/)
  * [ ] [Git It!](https://github.com/jlord/git-it-electron)
+ * [ ] [ES6 Template Strings](http://2ality.com/2015/01/template-strings-html.html)
 
 [TOC :arrow_double_up: ](#table-of-contents)
