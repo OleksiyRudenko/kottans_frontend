@@ -17,6 +17,8 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Test 2 - More of git and github](#test-2---more-of-git-and-github)
   - [Test 3 - Frontend basics](#test-3---frontend-basics)
   - [Test 4 - Responsive Web Design Fundamentals](#test-4---responsive-web-design-fundamentals)
+  - [Test 5 - Intro to JS](#test-5---intro-to-js)
+  - [Test 6 - Object-Oriented JavaScript](#test-6---object-oriented-javascript)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Responsive design](#responsive-design)
@@ -50,7 +52,7 @@ for future reference.
  - [x] [HTML and CSS Syntax](https://www.udacity.com/course/intro-to-html-and-css--ud304)
  - [x] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  - [x] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
- - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
+ - [x] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
  - [ ] [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
 [TOC :arrow_double_up: ](#table-of-contents)
@@ -186,6 +188,27 @@ Reflections:
                     sub-statement value 
      - `surprise :` the above
      - `will use :` the above
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 6 - Object-Oriented JavaScript
+
+[The test itself](https://github.com/Kottans/frontend/blob/master/test06.md)
+
+<details><summary><b>Completed lessons evidences</b> (click to show)</summary>
+
+ ![Object-Oriented JavaScript](task_6/00-object-oriented-javascript.png)
+
+</details>
+
+Course project: [repo](https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game)
+| [live](https://oleksiyrudenko.github.io/frontend-nanodegree-arcade-game)
+
+Reflections:
+ * Intro to JS
+     - `new----- :` class declaration patterns
+     - `surprise :` OO optimization based on patterns applied
+     - `will use :` pseudoclassical pattern (classes and subclasses)
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
