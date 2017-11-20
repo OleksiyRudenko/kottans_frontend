@@ -51,6 +51,7 @@ for future reference.
  - [x] [Responsive Web Design Fundamentals by Google](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
  - [x] [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
  - [ ] [Object-Oriented JavaScript by Hack Reactor](https://www.udacity.com/course/object-oriented-javascript--ud015)
+ - [ ] [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
