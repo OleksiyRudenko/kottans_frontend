@@ -115,7 +115,7 @@ Reflections:
 
 ### Test 2 - More of git and github
 
-[The test itself](https://github.com/Kottans/frontend/blob/master/test02.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test02.md)
 
 Completed lessons evidences:
 
@@ -137,7 +137,7 @@ Reflections:
 
 ### Test 3 - Frontend basics
 
-[The test itself](https://github.com/Kottans/frontend/blob/master/test03.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test03.md)
 
 Completed lessons evidences:
 
@@ -153,7 +153,7 @@ Reflections:
 
 ### Test 4 - Responsive Web Design Fundamentals
 
-[The test itself](https://github.com/Kottans/frontend/blob/master/test04.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test04.md)
 
 <details><summary><b>Completed lessons evidences</b> (click to show)</summary>
 
@@ -173,7 +173,7 @@ Reflections:
 
 ### Test 5 - Intro to JS
 
-[The test itself](https://github.com/Kottans/frontend/blob/master/test05.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test05.md)
 
 <details><summary><b>Completed lessons evidences</b> (click to show)</summary>
 
@@ -193,7 +193,7 @@ Reflections:
 
 ### Test 6 - Object-Oriented JavaScript
 
-[The test itself](https://github.com/Kottans/frontend/blob/master/test06.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test06.md)
 
 <details><summary><b>Completed lessons evidences</b> (click to show)</summary>
 
