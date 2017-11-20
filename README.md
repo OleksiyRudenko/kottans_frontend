@@ -78,7 +78,7 @@ for future reference.
 [TOC :arrow_double_up: ](#table-of-contents)
 
 ### Test 1 - Linux command line, server and http tools
-[The test itself](https://github.com/Kottans/frontend/blob/master/test01.md)
+[The original task from Kottans](https://github.com/Kottans/frontend/blob/master/test01.md)
 
 Completed lessons evidences:
 
