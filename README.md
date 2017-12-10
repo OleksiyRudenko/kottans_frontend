@@ -212,6 +212,16 @@ Reflections:
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
+### Test 7 - Offline Web Applications
+
+Reflections:
+ * Intro to JS
+     - `new----- :` [IndexedDB Promised](https://github.com/jakearchibald/idb),
+       Cache Storage
+     - `surprise :` cache and IndexedDB
+     - `will use :` service workers, IndexedDB
+
+[TOC :arrow_double_up: ](#table-of-contents)
 
 ## Going to learn
 
