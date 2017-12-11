@@ -202,7 +202,11 @@ Reflections:
 
 </details>
 
-Course project: [repo](https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game)
+Course project: Classical Frogger Game
+
+![demo screencast](https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game/blob/master/images/frogger-rs.gif)
+
+[repo](https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game)
 | [live](https://oleksiyrudenko.github.io/frontend-nanodegree-arcade-game)
 
 Reflections:
