@@ -19,6 +19,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Test 4 - Responsive Web Design Fundamentals](#test-4---responsive-web-design-fundamentals)
   - [Test 5 - Intro to JS](#test-5---intro-to-js)
   - [Test 6 - Object-Oriented JavaScript](#test-6---object-oriented-javascript)
+  - [Test 7 - Offline Web Applications](#test-7---offline-web-applications)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Responsive design](#responsive-design)
@@ -212,6 +213,16 @@ Reflections:
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
+### Test 7 - Offline Web Applications
+
+Reflections:
+ * Intro to JS
+     - `new----- :` [IndexedDB Promised](https://github.com/jakearchibald/idb),
+       Cache Storage
+     - `surprise :` cache and IndexedDB
+     - `will use :` service workers, IndexedDB
+
+[TOC :arrow_double_up: ](#table-of-contents)
 
 ## Going to learn
 
