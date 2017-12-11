@@ -202,7 +202,7 @@ Reflections:
 
 </details>
 
-Course project: Classical Frogger Game
+#### Course project: Classical Frogger Game
 
 ![demo screencast](https://github.com/OleksiyRudenko/frontend-nanodegree-arcade-game/blob/master/images/frogger-rs.gif)
 
