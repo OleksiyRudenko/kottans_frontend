@@ -232,6 +232,8 @@ Reflections:
 
 ### Test 8 - Memory Pair Game
 
+![demo screencast](https://github.com/OleksiyRudenko/memory-pair-game/blob/master/images/memory-pair-game-rs.gif)
+
 [repo](https://github.com/OleksiyRudenko/memory-pair-game)
 | [Play on-line!](https://oleksiyrudenko.github.io/memory-pair-game/)
 
