@@ -19,7 +19,9 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Test 4 - Responsive Web Design Fundamentals](#test-4---responsive-web-design-fundamentals)
   - [Test 5 - Intro to JS](#test-5---intro-to-js)
   - [Test 6 - Object-Oriented JavaScript](#test-6---object-oriented-javascript)
+    - [Course project: Classical Frogger Game](#course-project-classical-frogger-game)
   - [Test 7 - Offline Web Applications](#test-7---offline-web-applications)
+  - [Test 8 - Memory Pair Game](#test-8---memory-pair-game)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Responsive design](#responsive-design)
@@ -225,6 +227,19 @@ Reflections:
        Cache Storage
      - `surprise :` cache and IndexedDB
      - `will use :` service workers, IndexedDB
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 8 - Memory Pair Game
+
+[repo](https://github.com/OleksiyRudenko/memory-pair-game)
+| [Play on-line!](https://oleksiyrudenko.github.io/memory-pair-game/)
+
+Reflections:
+ * Memory Pair Game
+     - `new----- :` complete real task
+     - `surprise :` _this_ context via `()=>{}` works like a charm
+     - `will use :` Object Oriented approach
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
