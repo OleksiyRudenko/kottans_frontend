@@ -212,7 +212,7 @@ Reflections:
 | [live](https://oleksiyrudenko.github.io/frontend-nanodegree-arcade-game)
 
 Reflections:
- * Intro to JS
+ * Object-Oriented JS
      - `new----- :` class declaration patterns
      - `surprise :` OO optimization based on patterns applied
      - `will use :` pseudoclassical pattern (classes and subclasses)
@@ -222,7 +222,7 @@ Reflections:
 ### Test 7 - Offline Web Applications
 
 Reflections:
- * Intro to JS
+ * Offline Web Applications
      - `new----- :` [IndexedDB Promised](https://github.com/jakearchibald/idb),
        Cache Storage
      - `surprise :` cache and IndexedDB
