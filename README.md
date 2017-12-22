@@ -22,6 +22,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
     - [Course project: Classical Frogger Game](#course-project-classical-frogger-game)
   - [Test 7 - Offline Web Applications](#test-7---offline-web-applications)
   - [Test 8 - Memory Pair Game](#test-8---memory-pair-game)
+  - [Test 9 - Website Performance Optimization](#test-9---website-performance-optimization)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Responsive design](#responsive-design)
@@ -242,6 +243,16 @@ Reflections:
      - `new----- :` complete real task
      - `surprise :` _this_ context via `()=>{}` works like a charm
      - `will use :` Object Oriented approach
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 9 - Website Performance Optimization
+
+Reflections:
+ * Website Performance Optimization
+     - `new----- :` JS Engines internals
+     - `surprise :` Critical Rendering Path 
+     - `will use :` Performance optimization techniques
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
