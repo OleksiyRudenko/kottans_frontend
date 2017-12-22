@@ -283,5 +283,6 @@ Reflections:
  * [ ] [Git It!](https://github.com/jlord/git-it-electron)
  * [ ] [ES6 Template Strings](http://2ality.com/2015/01/template-strings-html.html)
  * [ ] [A Marvelous World of Coding Conventions@youtube](https://www.youtube.com/watch?v=1ad32_m1nZo)
+ * [ ] [Service Workers](https://habrahabr.ru/post/279291/) + [more...](https://trello.com/c/zw6YQuLK)
 
 [TOC :arrow_double_up: ](#table-of-contents)
