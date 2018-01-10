@@ -23,6 +23,7 @@ passing [Kottans frontend course](https://github.com/Kottans/frontend).
   - [Test 7 - Offline Web Applications](#test-7---offline-web-applications)
   - [Test 8 - Memory Pair Game](#test-8---memory-pair-game)
   - [Test 9 - Website Performance Optimization](#test-9---website-performance-optimization)
+  - [Test 10 - Weather Web App](#test-10---weather-web-app)
 - [Going to learn](#going-to-learn)
   - [Git related](#git-related)
   - [Responsive design](#responsive-design)
@@ -253,6 +254,54 @@ Reflections:
      - `new----- :` JS Engines internals
      - `surprise :` Critical Rendering Path 
      - `will use :` Performance optimization techniques
+
+[TOC :arrow_double_up: ](#table-of-contents)
+
+### Test 10 - Weather Web App
+
+![Weather Web App UI - Search History](https://github.com/OleksiyRudenko/weather-webapp/raw/master/weather-app-ui-searchhistory.png)
+
+Reflections:
+ - Planning, planning, and even better planning
+ - Architecture worth time thinking over 
+ - Theory, theory, and even more theory
+ - Practice, practice, practice, practice, and loop again
+
+**[Features](https://github.com/OleksiyRudenko/weather-webapp#features):**
+
+ * Search by City name
+ * Search by geo coordinates
+ * Current weather and 5 days forecast
+ * 20 latest cities searched are available in history track
+   (stored per browser)
+ * Switch between imperial and metric units
+   (stored per browser)
+ * [Open Weather Map](https://openweathermap.org/api) is a weather
+   data source
+
+**Feature stubs:**
+
+ * Detect current location
+ * Favourites management
+ * Pre-loaded city list
+ * Weather cache for offline use
+
+**[Known Issues](https://github.com/OleksiyRudenko/weather-webapp#known-issues):**
+
+ - [ ] Styling is poor
+ - [ ] Forecast data removal is done not via style management
+ - [ ] Current location not detected
+ - [ ] Pre-loaded city list is not used
+ - [ ] Favourites management is not implemented
+ - [ ] Favourites drop-down is not implemented
+ - [ ] Search by geo coordinates is not validated
+ - [ ] Search errors are technical in style
+
+[Live demo](https://oleksiyrudenko.github.io/weather-webapp/)
+
+[repo @ github](https://github.com/OleksiyRudenko/weather-webapp)
+
+
 
 [TOC :arrow_double_up: ](#table-of-contents)
 
